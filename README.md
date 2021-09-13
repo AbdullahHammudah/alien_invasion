@@ -1,6 +1,6 @@
 # alien_invasion
 * Alien Invasion is a project (game) that uses python &amp; mainly pygame module (library).
-* Its main objective is to demonstrate how python and its (functions, classes, lists, dictionaries, loops) work together and how to organize and architect projects. Besides HAVEING FUN! 
+* Its main objective is to demonstrate how python and its (functions, classes, lists, dictionaries, loops) work together and how to organize and architect projects. Besides HAVEING FUN ^_^ ! 
 * Please note that this project uses python 3.x.
 
 ## Install
