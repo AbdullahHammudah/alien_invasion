@@ -4,9 +4,9 @@
 * Please note that, this project uses python 3.x.
 
 ## Install
-* check if python installed on your device by running `python` in command line, if not, you can install it through [Python](https://www.python.org/)
+* Check if python installed on your device by running `python` in command line, if not, you can install it through [Python](https://www.python.org/)
 * Be sure that pip is installed on your device by running --> `$ pip --version` on Linux & mac OS x or `$ python -m pip --version` on windows
-* install pygame library (module) 
+* Install pygame library (module) 
 `pip install pygame`
 * Start the game by double clicking on alien_invasion.py
 * Sample Images:
